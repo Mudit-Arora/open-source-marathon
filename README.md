@@ -18,7 +18,7 @@ Please keep these things in mind while creating a pull request:
 
 # Style Guidelines
 Use PEP8 style for Python code and Prettier for HTML, CSS and JavaScript. <br>
-+2 points will be awarded for hunting style errors in others' pull requests. You can simply comment on the respective pull request and include details of style errors to claim the points.
++2 points will be awarded for hunting style errors in others' pull requests. You can simply comment on the respective pull request and include details of style errors to claim the points. (2 points will be awarded in a single pull request)
 
 
 # General Rules and Instructions
@@ -30,3 +30,4 @@ More details are available at https://docs.google.com/document/d/10sV36zfKDqhW0C
 
 # Updates
 1. There are no task deadlines now, so you can work at your own pace!
+2. To keep the event fair, we’ve decided that in a single pull request only 2 points will be awarded for finding out style violations rather than 2 points per style violation. However, still only the first one to find the style violations will be rewarded!
